@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rAupV3fA5qz/a+Zp/5qjoqVTv5RvpIw4SIav1hAHBYRl4HucgfPd9DbAqfb7FW9Zws47WlgAjXercxB/IhT51A==",
+  "success": true,
+  "projectFilePath": "/home/kyuudou/Desktop/Main Directory/Projects/Programming/My Code Projects/CSharp/Fix Legacy Apps/Go/Go.csproj",
+  "expectedPackageFiles": [
+    "/home/kyuudou/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.10/microsoft.aspnetcore.app.ref.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
